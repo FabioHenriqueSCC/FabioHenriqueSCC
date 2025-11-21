@@ -14,6 +14,7 @@ I'm a **Full Stack Developer** and **Software Engineering student at INATEL** (B
 - 💻 Experience with **React, Next.js, TypeScript, React Native/Expo & Tailwind CSS**  
 - ☁️ Interest in **cloud & serverless architectures** (AWS Lambda, API Gateway, Cognito, Amplify)  
 - 🧠 Python for **automations** and first ML experiments  
+- 🔧 Currently learning **TypeScript for backend (Node.js, Express, NestJS)**  
 
 ---
 
@@ -34,6 +35,7 @@ I'm a **Full Stack Developer** and **Software Engineering student at INATEL** (B
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/>
 
   <!-- Backend / Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
@@ -81,7 +83,7 @@ A complete front-end for an online store, built with **React, TypeScript, Vite a
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/f%C3%A1bio-henrique-688010252/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabiohenriquescc/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:fhscc7@gmail.com">
